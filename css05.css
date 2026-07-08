@@ -4,3 +4,29 @@ b {
     color: red;
     
 }
+
+i {
+    color: purple;
+}
+
+u { 
+    color: green; 
+}
+
+ul li {
+    color: orange;
+
+}
+
+ol {
+    color: palevioletred;
+
+    /* comentario para classes*/
+}
+.primeiro_item {
+    color: greenyellow;
+}
+/* comentario para ids */
+#ultimo_item {
+    color: palegoldenrod;
+}
